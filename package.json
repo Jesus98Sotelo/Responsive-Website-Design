@@ -1,0 +1,26 @@
+{
+  "name": "responsive-website-design",
+  "version": "1.0.0",
+  "description": "Este sitio fue construido con la finalidad de poder practicar mis habilidades con HTML, CSS y JavaScript en sitios web estáticos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesus98Sotelo/Responsive-Website-Design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jesus98Sotelo/Responsive-Website-Design/issues"
+  },
+  "homepage": "https://github.com/Jesus98Sotelo/Responsive-Website-Design#readme",
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^3.0.0",
+    "webpack": "^5.42.0",
+    "webpack-cli": "^4.7.2"
+  }
+}

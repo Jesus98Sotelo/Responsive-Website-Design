@@ -277,9 +277,20 @@ footer .cards div i:hover {
   display: none;
 }
 #details-container .nav__bar {
+  margin: 0 auto;
+  width: 80%;
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 25px 0px;
+  font-size: 30px;
+}
+#details-container .nav__bar i {
+  color: var(--highlight-color);
+}
+.nav__bar .nav__buttons {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
 }
 .item-hide {
   display: none;
