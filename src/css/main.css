@@ -350,4 +350,8 @@ footer .cards div i:hover {
   .columns {
     flex-direction: row;
   }
+  #details-container .items .item .main-image img {
+    width: 80%;
+    max-height: 500px;
+  }
 }
