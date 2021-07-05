@@ -298,12 +298,19 @@ footer .cards div i:hover {
 #details-container .items {
   width: 80%;
   margin: 0 auto;
+  padding: 10px 20px;
 }
 #details-container .items .item .main-image img {
   width: 100%;
 }
 #details-container .items .item .main-image {
   text-align: center;
+}
+#details-container .items .item .title,
+#details-container .items .item .description {
+  margin: 20px 0;
+  text-align: center;
+  line-height: 25px;
 }
 @keyframes opening-logo {
   0% { transform: scale(0) }
